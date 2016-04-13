@@ -10,6 +10,6 @@
   },
   "addons": [
     "heroku-postgresql:hobby-dev",
-    "mailgun"
+    "mailgun:starter"
   ]
 }
